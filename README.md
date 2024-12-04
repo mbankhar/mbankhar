@@ -20,9 +20,9 @@
 
 ## 🚀 What Drives Me
 
-- **Chasing My Dreams** 🚀
-- **Becoming My Best Self** 📚
-- **Creating a Better Tomorrow** 🤝
+- **Transforming Challenges into Growth** 💡
+- **Learning, Innovating, and Evolving** 📘
+- **Crafting Solutions for a Better Future** 🌍
 
 ## 🌱 What I'm Looking For
 
@@ -34,4 +34,4 @@
 
 Feel free to reach out:
 
-- **[LinkedIn](https://www.linkedin.com/)**
+- **LinkedIn**
