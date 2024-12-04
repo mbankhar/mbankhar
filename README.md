@@ -34,4 +34,5 @@
 
 Feel free to reach out:
 
-- **LinkedIn**
+- **[LinkedIn](https://www.linkedin.com/in/bankhardt-máté-401332112/)**
+
