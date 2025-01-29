@@ -6,6 +6,8 @@
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
 [![C++](https://img.shields.io/badge/C%2B%2B-F34B7D?logo=cplusplus&logoColor=white)](#)
 [![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](#)
+
 
 ### Tools & Technologies
 
